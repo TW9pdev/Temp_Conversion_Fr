@@ -4,5 +4,5 @@ Un outil en python qui vous permet de convertir une température (en degrès Cel
 # Comment l'utiliser ?
 Avec Visual Studio Code, le terminal ou Python.
 
-#Créateur
+# Créateur
 TW9p
